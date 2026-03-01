@@ -1,2 +1,2 @@
 # WebScraping-Selenium
-Projeto de estudos em Python para automação e extração de dados com Selenium. Abrange desde configuração do ambiente até técnicas avançadas como Expected Conditions, ActionChains, manipulação de abas, cookies e exportação para CSV/JSON e bancos de dados. Ideal para quem deseja aumentar a produtividade e explorar o poder da automação web.
+Projeto de estudos em Python para automação e extração de dados com Selenium, do curso da UDEMY - Programador Aventureiro. Abrange desde configuração do ambiente até técnicas avançadas como Expected Conditions, ActionChains, manipulação de abas, cookies e exportação para CSV/JSON e bancos de dados. Ideal para quem deseja aumentar a produtividade e explorar o poder da automação web.
